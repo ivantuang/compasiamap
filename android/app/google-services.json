@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58500942451",
+    "project_id": "compasiamap",
+    "storage_bucket": "compasiamap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58500942451:android:4dbb687be5703ff0d5f806",
+        "android_client_info": {
+          "package_name": "com.ivantuang.compasiamap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58500942451-r3lqok5vrqpatibm3lrogqi99jurgk40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWb76KEFxtj_w2VAARaKFpQgYffcV9Tlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58500942451-r3lqok5vrqpatibm3lrogqi99jurgk40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
